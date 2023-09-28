@@ -1,0 +1,39 @@
+$darkOrange: #FF5733;
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    font-size: 1rem;
+    font-family: 'Birthstone Bounce', cursive;
+font-family: 'Dancing Script', cursive;
+font-family: 'Nunito Sans', sans-serif;
+}
+
+
+// colors
+
+.text_white{
+    color: white; 
+}
+.text_orange{
+    color:orange ;
+}
+.text_black{
+    color:black ;
+}
+
+$shade-10: #2c3e50 !default;
+$shade-1: #d7dcdf !default;
+$shade-0: #fff !default;
+$teal: #1abc9c !default;
+
+// $blue: #2f87c7;
+// $yellowclr: #d2b48c;
+// $brownclr: #d36b4e;
+// $darkbkue:#245ca5;
+// $black: #333;
+// $primaryfont: 'Open Sans', Arial, sans-serif;
+
